@@ -1,0 +1,6 @@
+body.pixiedust .class:hover {
+  color: #fff;
+}
+body.pixiedust .class .childclass {
+  border: 0;
+}
